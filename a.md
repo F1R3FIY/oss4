@@ -1,2 +1,1 @@
-'hanyang' 
-'university' 
+-e "hanyang\nuniversity" 
