@@ -1,2 +1,1 @@
-hanyang 
--e \nuniversity 
+hanyang university 
